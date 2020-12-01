@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Shubham Ranga a Software and Web Developer form Jodhpur,India. Pursuing my Bachelor's in Computer Science at Manipal University Jaipur.
+I'm Shubham Ranga a Software Developer from Jodhpur,India. Pursuing my Bachelor's in Computer Science at Manipal University Jaipur.
 
 Find out more [@Shubhamranga.com](https://shubhamranga.com/)
