@@ -21,6 +21,6 @@ I'm Shubham Ranga a Software Developer from Jodhpur,India. Pursuing my Bachelor'
 Find out more [@Shubhamranga.com](https://shubhamranga.com/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats-shubhamrangaa.vercel.app/api/?username=shubhamrangaa&count_private=true&show_icons=true&theme=midnight-purple&hide=prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats-shubhamrangaa.vercel.app/api/?username=shubhamrangaa&show_icons=true&theme=midnight-purple&hide=prs,issues)
 
 ![willianrod's wakatime stats](https://github-readme-stats-shubhamrangaa.vercel.app/api/wakatime?username=shubhamrangaa&layout=compact)
