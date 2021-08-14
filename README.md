@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Shubham Ranga a Software Developer from Jodhpur,India. Pursuing my Bachelor's in Computer Science at Manipal University Jaipur.
 
-Find out more [@Shubhamranga.com](https://shubhamranga.com/)
+Find out more [@Shubhamranga.com](https://shubhamranga.me/)
 
 
 ![Shubham's GitHub stats](https://github-readme-stats-shubhamrangaa.vercel.app/api/?username=shubhamrangaa&count_private=true&show_icons=true&theme=midnight-purple&hide=contribs,issues)
